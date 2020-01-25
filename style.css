@@ -18,15 +18,15 @@ a {
 }
 
 h1 {
-  color: goldenrod;
+  color: goldenrod; 
   margin-top: 10px;
-  font-size: 50px;
-  text-align: center;
+  font-size: 50px; 
+  text-align: center; 
   font-family: 'Permanent Marker', cursive;
-  text-shadow: 3px 3px black;
+  text-shadow: 3px 3px black; 
 }
 
-.instructions {
+.instructions { 
   display: flex;
   justify-content: center;
   align-items: center;
